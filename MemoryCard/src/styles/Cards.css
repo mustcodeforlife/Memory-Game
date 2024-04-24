@@ -1,0 +1,9 @@
+#container {
+    display:flex;
+    gap:30px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#container .card {
+    margin-right: auto;
+}
